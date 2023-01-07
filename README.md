@@ -1,4 +1,4 @@
-# HMM_paper
+# Hidden Markov Models paper
 
 Some code in R and C++(Rcpp) written for the paper " Understanding narwhal diving behaviour using Hidden Markov Models with dependent state distributions and long range dependence" [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006425]
 
