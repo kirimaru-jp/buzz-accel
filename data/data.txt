@@ -1,1 +1,1 @@
-data
+The full datasets can be found at https://gitlab.com/whales-reseach-code/buzz_accelerometer_paper/-/tree/main/data
